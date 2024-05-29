@@ -1,4 +1,4 @@
-public class DecoratorImpl {
+public class DecoratorImplOutIn {
 
   public interface IFilter {
       public void execute();
